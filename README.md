@@ -29,6 +29,7 @@ Image → EfficientNet-B0 → Linear(1280 → 1) → Sigmoid → Probability
 ```
 
 ---
+## Data From: https://www.kaggle.com/datasets/kushagra3204/wheat-plant-diseases
 
 ## 🗂️ Dataset Structure
 
